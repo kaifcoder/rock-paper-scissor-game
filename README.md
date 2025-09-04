@@ -1,0 +1,1 @@
+Click the **+** button on the agent that says 'tools' and choose 'Google Calendar.'
